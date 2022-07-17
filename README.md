@@ -2,6 +2,11 @@
 Dedicado a ensinar como instalar e usar o Halide no Linux
 
 
-chmod +x testing.sh
+chmod +x install.sh
+chmod +x start.sh
 
-./testing.sh
+./install.sh
+
+# Para rodar o Iniciador de projetos
+
+~/HalideInLinux/start.sh
