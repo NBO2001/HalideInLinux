@@ -5,6 +5,8 @@ echo "Feito por NBO2001.."
 sudo apt install update
 sudo apt install upgrade
 
+chmod +x start.sh
+
 sudo apt install \
                   build-essential git ninja-build \
                   clang-tools lld llvm-dev libclang-dev \
