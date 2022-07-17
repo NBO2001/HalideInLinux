@@ -12,7 +12,7 @@ cd ~/
 Clone o repositorio
 
 
-https://github.com/NBO2001/HalideInLinux
+git clone https://github.com/NBO2001/HalideInLinux.git
 
 
 Entre na pasta

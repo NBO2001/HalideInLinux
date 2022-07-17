@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/natanael/HalideInLinux'
+g++ .cpp -g -I ~/Halide-14.0.0-x86-64-linux/include -I ~/Halide-14.0.0-x86-64-linux/share/Halide/tools -L ~/Halide-14.0.0-x86-64-linux/lib -lHalide `libpng-config --cflags --ldflags` -ljpeg -lpthread -ldl -o build/HalideInLinux -std=c++17
+make: Leaving directory '/home/natanael/HalideInLinux'
+ 
