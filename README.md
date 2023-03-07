@@ -5,40 +5,42 @@ Criador de projeto Halide.
 
 Va para a raiz do pc.
 
-
-cd ~/
-
+```
+cd
+```
 
 Clone o repositorio
 
-
+```
 git clone https://github.com/NBO2001/HalideInLinux.git
-
+```
 
 Entre na pasta
 
-
+```
 cd HalideInLinux
-
+```
 
 Permita a execucao do Shell
 
-
+```
 chmod +x install.sh
-
+```
 
 Execute o  shell
 
-
+```
 ./install.sh
+```
 
 # Para rodar o Iniciador de projetos
 
 Para criar o projeto Halide use o comando para criar a estrutura do projeto.
-
+```
+cd && mkdir projetoInicial && cd projetoInicial
 
 ~/HalideInLinux/start.sh
-
+```
 
 # Para compilar o arquivo use:
 
